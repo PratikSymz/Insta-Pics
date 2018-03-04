@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.pratiksymz.android.instapics.SinglePictureActivity">
+
+    <ImageView
+        android:id="@+id/fullscreen_picture_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:id="@+id/fullscreen_picture_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="hrl"
+        android:padding="5dp"
+        android:layout_above="@id/fullscreen_picture_desc"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/fullscreen_picture_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="hrl"
+        android:padding="5dp"
+        android:layout_alignParentBottom="true"
+        android:textColor="@android:color/black"/>
+
+</RelativeLayout>

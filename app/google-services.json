@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "786643267356",
+    "firebase_url": "https://instapics-599ab.firebaseio.com",
+    "project_id": "instapics-599ab",
+    "storage_bucket": "instapics-599ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786643267356:android:16359fbb80a14dc9",
+        "android_client_info": {
+          "package_name": "com.pratiksymz.android.instapics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786643267356-2dgjur397qigfb6csskp6pco88dfjeu9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pratiksymz.android.instapics",
+            "certificate_hash": "d41b1bdab328d4fb06942c46667bc911259ba999"
+          }
+        },
+        {
+          "client_id": "786643267356-gj9cj43mohopm55fjvs1bnqa7pompa1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnBcSqFU-SnmxHcgIuMtAOGCmwWhLEWDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786643267356-gj9cj43mohopm55fjvs1bnqa7pompa1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
